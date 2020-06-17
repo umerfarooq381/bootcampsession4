@@ -1,0 +1,13 @@
+.Box{
+  height: 500px;
+  background-color: gray;
+}
+
+.dayLight{
+  background-color: yellowgreen;
+}
+
+
+.dayNight{
+  background-color: gray;
+}
